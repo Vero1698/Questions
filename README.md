@@ -19,3 +19,26 @@ Data systems are those that are in charge of storing and information. They also 
 ***query=function (all data)***
 
 that means anything you could ever imagine doing with data can be expressed as a function thattakes in all the data you have as input
+
+### Question5:
+#### what are the 5 categories of open source project?
+
+***1.-Batch computation systems***
+
+***2.-Serialization frameworks***
+
+***3.-Random-access NoSQL databases***
+
+***4.-Messaging/queuing systems***
+
+***5.-Realtime computation system***
+
+
+
+# Chapter 2
+### Question 6:
+#### what is the relationship between data, views, and queries?
+queries are those that access a list of views to find the answers to these, which in turn need as a next step access to a database where they can obtain the information they request or want.
+
+
+
