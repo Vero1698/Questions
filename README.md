@@ -1,4 +1,5 @@
-# Questions Chapter 1 and 2
+# Big Data Principles and Best Practices of Scalable Realtime Data Systems
+# Chapter 1
 ### Question 1:
 #### What can be a big problem when using a traditional database?
 One of the problems may be the saturation of request to save data in the database directly because the database can't keep up withthe load, so write requests to increment pageviews are timing out.
@@ -10,3 +11,11 @@ The sharing technique uses multiple database servers, which are seen as small su
 ### Question 3:
 #### What are the main problems that big data solves ? and why ?
 The main problems it addresses are scalability and com-plexity issues in a dramatic fashion because Big Data are aware of their distributed nature. And  sharding andreplication are handled for you, so you will never find acciden-tally query the wrong shard, because that logic is internalized in the database.
+
+### Question 4:
+#### How does data systems work?
+Data systems are those that are in charge of storing and information. They also combine bits and pieces to produce their responses, which follows the following definition:
+
+***query=function (all data)***
+
+that means anything you could ever imagine doing with data can be expressed as a function thattakes in all the data you have as input
