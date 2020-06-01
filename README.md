@@ -40,5 +40,14 @@ that means anything you could ever imagine doing with data can be expressed as a
 #### what is the relationship between data, views, and queries?
 queries are those that access a list of views to find the answers to these, which in turn need as a next step access to a database where they can obtain the information they request or want.
 
+### Question 7:
+#### Why Human-fault tolerance is the most important advantage for immutable data?
+The immutability of data refers to not removing data, nor updating it, but adding it, and that is why the advantage of Human-fault tolerance is one of the two most important because people can make a mistake like any human being, which in case of being mutable, this will lead to a total loss of data and time problems to start again.
 
+### Question 8:
+#### What is the benefit of implementing a trash collection in a database?
+Firstly, when you perform a garbage collection, it means that you are removing garbage data that for some reason is not useful or does not have a high value in my data. But, that your deletion of data with little value helps to implement data retention measures for future collection or use in the near future.
+
+### Question 9:
+#### 
 
