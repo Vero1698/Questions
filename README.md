@@ -49,5 +49,13 @@ The immutability of data refers to not removing data, nor updating it, but addin
 Firstly, when you perform a garbage collection, it means that you are removing garbage data that for some reason is not useful or does not have a high value in my data. But, that your deletion of data with little value helps to implement data retention measures for future collection or use in the near future.
 
 ### Question 9:
-#### 
+#### What is graph schema? And what are the elements of this graph?
+A graph schema is a graph that provides a complete description of all data contained within a dataset.
+And the elements are :
+
+Nodes:The entities  in the system.
+
+Edges: Relationship between nodes.
+
+Properties: Information about entities
 
